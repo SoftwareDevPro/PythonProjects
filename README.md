@@ -7,3 +7,6 @@
 3. Fibonacci Sequence (non-recursive)
 4. Powerful One-liners
 5. Auto-move
+6. 3D line plot
+7. Pie Chart
+
