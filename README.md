@@ -1,6 +1,6 @@
 # Python Projects
 
-#### Collection of Python Projects
+#### Collection of Python Code
 
 1. Wordle Clone
 2. Video Converter (Video --> Animated GIF)
