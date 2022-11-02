@@ -1,7 +1,7 @@
 
 # Voice Recorder
 
-Simple program record voice audio
+Simple program to record voice audio
 
 To run:
 
