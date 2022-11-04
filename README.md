@@ -12,3 +12,6 @@
 8. Audio Book
 9. MP3 Extraction from MP4 Video
 10. Simple Voice Recorder
+11. Multiple PDF file merger
+12. Password Protector for PDF
+13. QR code generator
