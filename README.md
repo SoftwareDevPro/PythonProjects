@@ -15,3 +15,5 @@
 11. Multiple PDF file merger
 12. Password Protector for PDF
 13. QR code generator
+14. PNG to JPG file converter
+15. PDF to TIFF file converter
