@@ -17,3 +17,5 @@
 13. QR code generator
 14. PNG to JPG file converter
 15. PDF to TIFF file converter
+16. Barcode Generator
+17. Windows Installation Details Retriever
