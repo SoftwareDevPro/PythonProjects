@@ -19,3 +19,10 @@
 15. PDF to TIFF file converter
 16. Barcode Generator
 17. Windows Installation Details Retriever
+18. File Unzipper
+19. Song Lyrics Retriever
+20. Image Background Remover
+21. Python Turtle Flower
+22. Spelling Corrector
+23. Currency Converter
+24. Internet Speed Check
