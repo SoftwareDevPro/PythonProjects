@@ -26,3 +26,8 @@
 22. Spelling Corrector
 23. Currency Converter
 24. Internet Speed Check
+25. Calendar Printer
+26. Cloud File Sharing
+27. PDF to DOCX converter
+28. PDF Audiobook
+29. Video Downloader
