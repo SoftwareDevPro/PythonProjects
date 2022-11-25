@@ -31,3 +31,12 @@
 27. PDF to DOCX converter
 28. PDF Audiobook
 29. Video Downloader
+30. Country Detail Info Printer
+31. Python Turtle Star
+32. Windows Recycle Bin Emptier
+33. Image Captcha Generator
+34. Image Compressor
+35. Images to PDF Creator
+36. Quiz Application (Django)
+37. File Uploader/Downloader (Django)
+38. QR Code Application Generator (Django)
