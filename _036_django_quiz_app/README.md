@@ -8,6 +8,8 @@ To run:
 ```
 pip install Django
 cd QuizProject
+python manage.py makemigrations
+python manage.py migrate
 python manage.py runserver
 ```
 
