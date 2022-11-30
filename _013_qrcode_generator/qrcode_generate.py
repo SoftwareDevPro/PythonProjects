@@ -1,6 +1,5 @@
 
 import pyqrcode
-import sys
 import argparse
 
 parser = argparse.ArgumentParser()
