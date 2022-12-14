@@ -40,3 +40,8 @@
 36. Quiz Application (Django)
 37. File Uploader/Downloader (Django)
 38. QR Code Application Generator (Django)
+39. Create Sketch from Image
+40. Language Detector
+41. Get Exchange Rate
+42. QR Code Decoder
+43. URL/Link Shortener
