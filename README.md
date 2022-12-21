@@ -45,3 +45,6 @@
 41. Get Exchange Rate
 42. QR Code Decoder
 43. URL/Link Shortener
+44. Captcha Verification Application (Django)
+45. Video Downloader Application (Django)
+46. Live Video Streaming Application (Django)
