@@ -48,3 +48,7 @@
 44. Captcha Verification Application (Django)
 45. Video Downloader Application (Django)
 46. Live Video Streaming Application (Django)
+47. Stopwatch Application (Tkinter)
+48. Send Windows Notifications
+49. Random Password Generator
+50. Screenshot Capture Application (Tkinter)
