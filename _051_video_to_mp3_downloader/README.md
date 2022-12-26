@@ -12,7 +12,7 @@ sudo apt-get install ffmpeg
 
 Windows:
 ```
-sudo apt-get install ffmpeg
+choco install ffmpeg
 ```
 
 Mac:
