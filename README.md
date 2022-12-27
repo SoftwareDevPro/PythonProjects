@@ -53,3 +53,5 @@
 49. Random Password Generator
 50. Screenshot Capture Application (Tkinter)
 51. Video to MP3 Downloader
+52. PDF file decryptor
+
