@@ -54,4 +54,8 @@
 50. Screenshot Capture Application (Tkinter)
 51. Video to MP3 Downloader
 52. PDF file decryptor
-
+53. Wi-Fi Password/Keys Show
+54. Phone Number Location Tracker
+55. OTP (one time password) Generator
+56. LateX Math Description Examples
+57. Stock Price Checker
