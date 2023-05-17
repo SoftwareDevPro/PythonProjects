@@ -7,8 +7,8 @@
 3. Fibonacci Sequence (non-recursive)
 4. Powerful One-liners
 5. Auto-move
-6. 3D line plot
-7. Pie Chart
+6. 3D line plot (matplotlib)
+7. Pie Chart (matplotlib)
 8. Audio Book
 9. MP3 Extraction from MP4 Video
 10. Simple Voice Recorder
@@ -59,3 +59,8 @@
 55. OTP (one time password) Generator
 56. LateX Math Description Examples
 57. Stock Price Checker
+58. PDF Password Cracker
+59. Word Clouds Generator
+60. 2-D Histogram (matplotlib)
+61. Contour Lines (matplotlib)
+62. Hexabins (matplotlib)
