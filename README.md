@@ -64,3 +64,7 @@
 60. 2-D Histogram (matplotlib)
 61. Contour Lines (matplotlib)
 62. Hexabins (matplotlib)
+63. Happy Fathers Day Message
+64. Greatest Integer Function (matplotlib)
+65. Hyperbola Graph (matplotlib)
+66. Circle Graph (matplotlib)
